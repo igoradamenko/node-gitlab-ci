@@ -1,5 +1,8 @@
 # Node.js GitLab CI
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/igoradamenko/node-gitlab-ci.svg)](https://hub.docker.com/r/igoradamenko/node-gitlab-ci/)
+[![](https://images.microbadger.com/badges/image/igoradamenko/node-gitlab-ci.svg)](https://microbadger.com/images/igoradamenko/node-gitlab-ci) 
+
 Docker image that I use in my GitLab projects to build them on CI.
 
 ## Example
