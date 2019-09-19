@@ -17,5 +17,5 @@ Then configure your jobs as described in [the documentation](https://docs.gitlab
 
 ## Why?
 
-In the past I used to write the commands from [Dockerfile](Dockerfile) in `.gitlab-ci.yml`,
-but it slowed down builds, and moving them from the separated image saved me 30-60 seconds on each build.
+In the past I used to write the commands from the [Dockerfile](Dockerfile) in `.gitlab-ci.yml`,
+but it slowed down builds, and moving them to the separated image saved me 30-60 seconds on each build.
